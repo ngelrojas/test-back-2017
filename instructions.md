@@ -31,4 +31,6 @@ Aplicação foi feita em Laravel 5.5
 
 ### Api Doctors
 
-https://swaggerhub.com/apis/rednodes/wealthlifeTest/1.0.0 
+- url api: yourlocalhost/doctors
+
+- https://swaggerhub.com/apis/rednodes/wealthlifeTest/1.0.0 
