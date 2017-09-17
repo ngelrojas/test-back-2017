@@ -1,14 +1,15 @@
 ### Angel Rojas
 
-Aplicação foi feita em Laravel 5.5
+Aplicação foi feita em Laravel 5.5 
+- app WealthLife dentro do arquivo WealthLife
 
 ### Database 
 
 - criar banco de dados wealthlifedb
 - file .env
     - DB_DATABASE=wealthlifedb
-    - DB_USERNAME=sua banco de dados mysql
-    - DB_PASSWORD=sua senha mysql
+    - DB_USERNAME=sua user do mysql
+    - DB_PASSWORD=sua senha do mysql
 
 - executar:
   - php artisan migrate
